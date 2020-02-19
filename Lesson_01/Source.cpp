@@ -120,4 +120,15 @@ int main()
 
 }
 
+1.	Vytvorte tridu Auto
+2.	Auto bud emit 1 atribut -> barva – textovy popis barvy -> bude privatni
+3.	Barva se bude nastavovat v konstruktoru
+4.	Auto bude mit metodu, ktera vypise barvu
+5.	Auto bude mit metodu pro zmenu barvy
+6.	Vytvorte object typu Auto a zmente jeho barvu
+5B
+•	Implementujte tridu motor. Tato trida bude mit jedinou public metodu, ktera pouze vypise informace o motoru – jmeno metody je Run()
+•	Pridejte tridu motor do tridy auto jako privatni atribut. Implementujte metodu motorBezi(), ve tride auto, ktera poze zavola metodu Run tridy motor. Instance motoru se vytvori v konstruktoru tridy Auto
+
+
 
